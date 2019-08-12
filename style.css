@@ -3,7 +3,7 @@
 }
 
 body {
-  font-family: Times, serif;
+  font-family: Helvetica, serif;
   width: 90%;
   max-width: 1000px;
   margin: 0 auto;
@@ -29,14 +29,16 @@ nav {
 
 nav ul li {
 	display: inline-block;
-	width: 15%;
+	margin-left: 5%;
+	margin-right: 5%;
 	list-style-type: none;
 }
 
 article {
 	text-align: justify;
 	line-height: 2em;
-
+	padding-left: 5%;
+	padding-right: 5%;
 }
 
 footer {
