@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Times, serif;
+  width: 90%;
+  max-width: 1000px;
+  margin: 0 auto;
+  font-size: 1.2em;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+header {
+	text-align: center;
+	margin-bottom: 5%;
+}
+
+nav {
+	text-align: center;
+}
+
+nav ul li {
+	display: inline-block;
+	width: 15%;
+	list-style-type: none;
+}
+
+article {
+	text-align: justify;
+	line-height: 2em;
+
+}
+
+footer {
+	text-align: center;
+}
