@@ -15,6 +15,9 @@ body {
   max-width: 1000px;
   margin: 0 auto;
   font-size: 1.2em;
+  line-height: 2em;
+  color: #505050;
+  background-color: #FAFAFA;
 }
 
 a {
@@ -53,7 +56,6 @@ section {
 
 article {
 	text-align: left;
-	line-height: 2em;
 	padding-left: 5%;
 	padding-right: 5%;
 }
