@@ -71,6 +71,10 @@ footer {
 }
 
 @media (prefers-color-scheme: dark) {
+	body {
+		color: #ffffff;
+		background-color: 555;
+	}
 	a {
 		color: Aquamarine;
 	}
