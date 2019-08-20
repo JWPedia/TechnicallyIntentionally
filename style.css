@@ -69,3 +69,16 @@ footer {
 	text-align: center;
 	font-size: 0.6em;
 }
+
+@media (prefers-color-scheme: dark) {
+	img {
+		opacity: 75%;
+	}
+	img:hover {
+		opacity:100%;
+	}
+	body {
+		color: #f2f2f2;
+		background-color: #404040;
+	}
+}
