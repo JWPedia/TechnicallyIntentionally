@@ -75,10 +75,10 @@ footer {
 		color: #f4f7ed;
 	}
 	img {
-		opacity: 75%;
+		opacity: .75;
 	}
 	img:hover {
-		opacity:100%;
+		opacity:1;
 	}
 	body {
 		color: #f2f2f2;
