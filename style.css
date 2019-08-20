@@ -73,10 +73,7 @@ footer {
 @media (prefers-color-scheme: dark) {
 	body {
 		color: #f2f2f2;
-		background-color: #262626;
-	}
-	a {
-		color: #df37ca;
+		background-color: #333333;
 	}
 	img {
 		opacity: .75;
