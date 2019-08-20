@@ -1,5 +1,6 @@
 # JeewoongChang.github.io
 This is my personal website, Technically Intentionally, hosted with Github Pages.
+
 CC-BY (a.k.a. do anything you want with my content with attribution.) 
 
 The following scripts are necessary for the full functioning of the website. 
