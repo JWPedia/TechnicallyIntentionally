@@ -70,10 +70,29 @@ footer {
 	font-size: 0.6em;
 }
 
+@media (prefers-color-sheme: light) {
+	body {
+		color: #555;
+		background-color: White;
+	}
+		a {
+		color: DarkOliveGreen;
+	}
+	blockquote {
+		border-left: 5px solid DarkOliveGreen;
+	}
+}
+
 @media (prefers-color-scheme: dark) {
 	body {
-		color: Black;
-		background-color: Black;
+		color: #f2f2f2;
+		background-color: #555;
+	}
+			a {
+		color: #556b2f;
+	}
+	blockquote {
+		border-left: 5px solid #556b2f;
 	}
 	img {
 		opacity: .75;
