@@ -16,12 +16,10 @@ body {
   margin: 0 auto;
   font-size: 1.2em;
   line-height: 2em;
-  color: #555;
 }
 
 a {
 	text-decoration: none;
-	color: DarkOliveGreen;
 }
 
 a:hover {
@@ -29,7 +27,6 @@ a:hover {
 }
 
 blockquote {
-	border-left: 5px solid DarkOliveGreen;
 	padding-left: 2%;
 }
 
