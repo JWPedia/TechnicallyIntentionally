@@ -73,7 +73,7 @@ footer {
 @media (prefers-color-sheme: light) {
 	body {
 		color: #555;
-		background-color: White;
+		background: White;
 	}
 		a {
 		color: DarkOliveGreen;
@@ -86,7 +86,7 @@ footer {
 @media (prefers-color-scheme: dark) {
 	body {
 		color: #f2f2f2;
-		background-color: #555;
+		background: #555;
 	}
 			a {
 		color: #556b2f;
