@@ -1,8 +1,8 @@
 # JeewoongChang.github.io
 This is my personal website, Technically Intentionally, hosted with Github Pages.
-All rights preserved.
+CC-BY (a.k.a. do anything you want with my content with attribution.) 
 
-The following scripts are used in the website. As such, javascript is necessary to browse the full content.
+The following scripts are necessary for the full functioning of the website. 
 
 ```html
 <!--Enables code syntax highlighting.-->
