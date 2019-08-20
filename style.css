@@ -71,17 +71,18 @@ footer {
 }
 
 @media (prefers-color-scheme: dark) {
+	body {
+		color: #f2f2f2;
+		background-color: #1a1a1a;
+	}
 	a {
 		color: #f4f7ed;
 	}
 	img {
 		opacity: .75;
+		transition: opacity .5s ease-in-out;
 	}
 	img:hover {
 		opacity:1;
-	}
-	body {
-		color: #f2f2f2;
-		background-color: #1a1a1a;
 	}
 }
