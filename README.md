@@ -1,9 +1,9 @@
 # JeewoongChang.github.io
 This is my personal website, Technically Intentionally, hosted with Github Pages.
 
-CC-BY (a.k.a. do anything you want with my content with attribution.) 
+CC-BY (a.k.a. do anything you want with my content with attribution.)
 
-The following scripts are necessary for the full functioning of the website. 
+The following scripts are necessary for the full functioning of the website.
 
 ```html
 <!--Enables code syntax highlighting.-->
@@ -14,5 +14,6 @@ The following scripts are necessary for the full functioning of the website.
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
 <!--Enables comments.-->
+<div id="commento"></div>
 <script src="https://cdn.commento.io/js/commento.js"></script>
 ```
