@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+	<title>Technically Intentionally</title>
+	<link>https://technicallyintentionally.com/</link>
+	<description>An aspiring developer's journey for a minimal life.</description>
+	<copyright>By Jeewoong Chang since 2019. CC-BY.</copyright>
+	<language>en-us</language>
+
+ 	<item>
+    	<title>An Obituary to a Guy Named Dory</title>
+		<link>https://technicallyintentionally.com/Blog/dory</link>
+		<description>This is an obituary to a guy named Dory. People saw in him a proud young bluefin; a sea of compliments to his radiant blue scales.</description>
+	</item>
+</channel>
+
+</rss>
